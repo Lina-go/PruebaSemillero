@@ -4,3 +4,5 @@ import matplotlib
 import torch
 # Linea de base
 print("hello")
+#Soy el companiero 2 y quiero usar skimage
+import skimage.io as io
