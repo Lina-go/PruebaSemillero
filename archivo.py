@@ -1,5 +1,5 @@
 import numpy as np
 import os
-import matplotlib
-# Linea de base
+import cv2
+# Esto es otro con opencv
 
